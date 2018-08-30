@@ -24,7 +24,7 @@ Route::get('article/{n}', function($n) {
         return view('article')->with('numero', $n);
 })->where('n', '[0-9]+');
 
-Route::get('{any?}', function ($any = null) {
+/*Route::get('{any?}', function ($any = null) {
 
         $sites = array("resto","creativ");
         
@@ -34,7 +34,7 @@ Route::get('{any?}', function ($any = null) {
            return view('perso');
         endif;
 
-})->where('any', '.*');
+})->where('any', '.*');*/
 
 /*Route::get('.*', function($n) {
 

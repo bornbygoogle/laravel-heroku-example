@@ -9,5 +9,5 @@ class CreativController extends Controller
     public function index()
     {
         return view('Creativ/index');
-    }
+	}	
 }
