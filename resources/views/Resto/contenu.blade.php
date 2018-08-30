@@ -31,11 +31,11 @@
 <section id="about" class="section-padding">
    <div class="container">
       <div class="row">
-      	 <div class="col-md-12 text-center marb-35">
+      	 <!-- div class="col-md-12 text-center marb-35">
             <h1 class="header-h">Chers Clients,</h1>
             <p class="header-p">Nous vous informons que notre restaurant sera fermé du 29 Mars au 15 Avril, pour congés annuels.</p>
             <p class="header-p">Le service reprendra à partir du Lundi 16 Avril. </p>
-         </div
+		   </div -->
          <div class="col-md-12 text-center marb-35">
             <h1 class="header-h">Le temps d'un voyage gastronomique.</h1>
             <p class="header-p">Localisé à Craponne, Le New Saigon est un restaurant asiatique qui vous propose des spécialités chinoises et vietnamiennes. Réputé pour sa cuisine traditionnelle, vous dégusterez dans notre restaurant les meilleures spécialités de l'Asie du sud-est le temps d'un voyage gastronomique. Ce site vous donne la possibilité de consulter des informations concernant le restaurant ainsi que notre carte, et ainsi découvrir la variété de nos menus.</p>
